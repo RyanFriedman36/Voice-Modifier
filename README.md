@@ -8,6 +8,6 @@ This iOS app allows a user to record audio and then play it back with 6 differen
 - echo effect
 - reverb effect
 
-Inspiration
+# Inspiration
 
-I created this app in an effort to learn Swift syntax and basic iOS development
+I created this app in an effort to learn Swift syntax, XCode and basic iOS development pratices
