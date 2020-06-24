@@ -11,3 +11,5 @@ This iOS app allows a user to record audio and then play it back with 6 differen
 # Inspiration
 
 I created this app in an effort to learn Swift syntax, XCode and basic iOS development pratices
+
+![Test Image 1](record screen.png)
